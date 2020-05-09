@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	left: 0; /*Margen de derecha*/
+	top: 0; /*Margen de arriba*/
+	}
+#Nav{
+	width:100%; /*Ancho*/
+	height: 60px; /*Alto*/
+	background-color: red; /*Color*/
+}
+#Nav h1{
+	color:white; /*Color de letra*/
+	font-family: arial; /*Tipo de letra*/
+	padding: 10px; /*Margen por interior*/
+	font-size: 30px; /*Tamaño de letra*/
+}
+
+#Titulo{ /*Las clases van on un ""."" */
+	text-align: center; /*Alinear*/
+	font-family: arial; /*Tipo de letra*/
+	font-size: 50px; 
+	margin-top: 50px /*Margen hacia arriba*/
+}
+.Conte{
+	margin: auto; /*Centar*/
+	background-color: rgba(255, 0, 0,.5); /*Fondo*/
+	font-family: arial; /*Tipo de letra*/
+	font-size: 25px; /*Tamaño de la letra*/
+	color: #fff; /*Color blanco*/
+	max-width: 1000px; /*Maximo de ancho*/
+	margin-top: 50px; /*Lo que separa el titulo de la ingo*/
+}
+#Tituloyinfo{
+	text-align: center; /*Alinear*/
+	font-family: Comic Sans MS; /*Tipo de letra*/
+	font-size: 30px; 
+	margin-top: 50px /*Margen hacia arriba*/
+}
+#Tituloyinfo222{
+	text-align: center; /*Alinear*/
+	font-family: Comic Sans MS; /*Tipo de letra*/
+	font-size: 40px; 
+	margin-top: 50px /*Margen hacia arriba*/
+}
